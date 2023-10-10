@@ -486,9 +486,6 @@ fill: var(--theme-accent);
         color: var(--theme-main);
     }
 }
-.skills-text--last {
-    margin-bottom: 60px;
-}
 .footer {
     padding: 50px 0 66px 0;
     background-color: var(--theme-bgd);
